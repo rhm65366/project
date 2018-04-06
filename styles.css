@@ -1,0 +1,66 @@
+html
+{ height: 100%;}
+
+body
+{ font: normal 90% Arial;
+  background-color: #db0f0f
+}
+
+p
+{
+  line-height: 1em;
+  font-size: 15pt }
+
+.pic
+{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+table .pic{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+img
+{ 
+	border: 0;
+	align-items: center;
+}
+
+h1
+{
+	color: #ffffff; 
+	font: arial bold; 
+	text-align: center; 
+	font-size: 42pt;
+}
+
+h2
+{ 
+	color:#efefef; 
+	text-align: 
+	left; 
+	font-size: 20pt;
+}
+
+h4
+{
+	color: #fcfdff; 
+	text-align: center; 
+	font-size: 8pt;
+}
+
+table, th, td 
+{
+    border: 1px solid black;
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    padding-left: 15px;
+}
